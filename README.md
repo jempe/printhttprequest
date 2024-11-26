@@ -1,4 +1,4 @@
-# printhttprequest
+# PrintHTTPRequest
 
 Print Header and Body of HTTP requests.
 
